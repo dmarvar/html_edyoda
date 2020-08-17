@@ -1,1 +1,1 @@
-# This is the Final proyect assigned by EdYoda FrontEnd Eductaion cycle.
+# This is the Final proyect assigned by EdYoda FrontEnd Education cycle.
